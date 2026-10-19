@@ -35,7 +35,7 @@ uv venv
 source .venv/bin/activate
 ```
 
-A new environment also needs the project’s dependencies installed. Follow the project’s installation instructions before continuing.
+Dependencies are already installed.
 
 ## 4. Start the renderer
 
