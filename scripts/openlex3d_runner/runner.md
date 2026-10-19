@@ -57,10 +57,6 @@ http://localhost:8080/
 
 The SSH tunnel connects your browser to the renderer running on the RPL desktop.
 
-## Stop the renderer
-
-Press `Ctrl+C` in the terminal running `runner.py`. To close the SSH session afterward.
-
 ## Troubleshooting
 
 - **The browser cannot connect:**
